@@ -1,1 +1,2 @@
 # E-commerce
+Analyzed e-commerce sales data using **Python, Pandas, and NumPy** to identify sales trends, customer behavior, and product performance. Developed interactive **Plotly** dashboards to visualize key metrics such as revenue, top-selling products, and customer segments. Performed data cleaning and exploratory data analysis (EDA) to generate actionable insights and support data-driven business decisions.
