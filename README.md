@@ -170,3 +170,6 @@ The project transforms raw sales data into actionable business insights that sup
 ## 9. Project Outcome
 
 Successfully analyzed **10,000+ e-commerce sales transactions** to identify sales trends, customer behavior, product performance, regional sales distribution, and profitability. The project demonstrates practical experience in Python-based data analytics, data visualization, and business insight generation for data-driven decision-making.
+
+## 10.Project overview
+ https://neelamma-biradar.github.io/E-commerce/
